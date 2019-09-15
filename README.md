@@ -12,3 +12,7 @@ It has these options as follows:
 4. pyaudio
 5. speech_recognition
 
+![]( images/1.PNG )
+
+
+![]( images/2.PNG )
